@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="../images/akcit-avatar.png" alt="AKCIT Logo" width="500" />
+  <img src="../images/akcit-avatar.png" alt="AKCIT Logo" width="300" />
 </p>
 
 O [AKCIT](https://akcit.ufg.br/) está associado ao Centro de Excelência em Inteligência Artificial (CEIA), que é a maior referência latino americana para Inteligência Artificial (IA) e a Unidade Embrapii com melhor nota de avaliação das empresas.
